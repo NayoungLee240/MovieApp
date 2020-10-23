@@ -2,7 +2,7 @@ package com.young.ws;
 
 public class Contants {
     public static final String IP_NUM = "192.168.0.18";
-    public static final String GOOGLE_PLACE_API_KEY = "AIzaSyBd7Ow0mWmVM0Tpk4eLTdC-dXqdAAUXKFI";
+    public static final String GOOGLE_PLACE_API_KEY = "KEY";
 
     //Intent Key
     public static final String MOVIE_NAME = "movieName";

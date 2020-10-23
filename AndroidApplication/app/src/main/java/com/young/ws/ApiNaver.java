@@ -18,8 +18,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ApiNaver {
-    static public String clientId = "ycpGcxqwNGp1YyXOUdt1";// 애플리케이션 클라이언트 아이디값";
-    static public String clientSecret = "FYFtFFa42w";// 애플리케이션 클라이언트 시크릿값";\
+    static public String clientId = "KEY";// 애플리케이션 클라이언트 아이디값";
+    static public String clientSecret = "KEY";// 애플리케이션 클라이언트 시크릿값";\
     public static String main(String movieName) {
         int display = 1; // 검색결과갯수. 최대100개
 
